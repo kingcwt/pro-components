@@ -39,3 +39,4 @@ Any type of contribution is welcome, here are some examples of how you may contr
 ## LICENSE
 
 MIT
+1
